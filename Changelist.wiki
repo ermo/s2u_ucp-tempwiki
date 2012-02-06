@@ -5,7 +5,7 @@
 * New maintainer (ermo)
 * Revised installation with a selection of unpacked game files for ease of modding and compatibility
 * Only includes the JSGME installation method (simpler to support, creates automatic backups for consistency)
-* Support for dropping custom liveries directly into \vehicles\textures
+* Support for dropping custom liveries (*.dds files) directly into \vehicles\textures
 * README rewritten in WikiCreole syntax for easier viewing/publishing of inline images
 * (NOT DONE) Increase maximum career level to 40 (and be able to buy speedhunter stickers)
 * (NOT DONE) Change how reward cars are handled
