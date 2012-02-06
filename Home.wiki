@@ -8,10 +8,10 @@ It is intended for people who enjoy driving the game out of the box, but were bo
 ----
 
 === INDEX ===
-* [[1. Important Information]]
-* [[2. Changelist]]
-* [[3. Installation]]
-* [[4. Uninstallation]]
+# [[Important Information]]
+# [[Changelist]]
+# [[Installation|]]
+# [[Uninstallation]]
 ----
 
 === Credits ===
