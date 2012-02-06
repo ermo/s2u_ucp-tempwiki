@@ -33,7 +33,7 @@ Then click "add to basket", then "checkout" (which will require that you create 
 Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So, all the following will be copied into your Shift 2 install folder:
 
 {{{
- \MODS <--- //empty folder//
+ \MODS <--- //if it doesn't exist, it will be created by JSGME.exe on its first run//
  \UCP_modified_assets 	<--- //entire folder//
   dummy.bff
   JoneSoft.txt
