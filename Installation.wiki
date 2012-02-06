@@ -1,17 +1,18 @@
 == 3. Installation ==
-
-PREREQUISITES \\
-STEP 1: -- Copy S2U_UCP Folder \\
-STEP 2: -- Backup Save Game \\
-STEP 3a: -- Run Unpack Script \\
-STEP 3b: -- Activate Unpacked Version \\
-STEP 3c: -- Rename Files \\
-STEP 4a: -- Create UCP JSGME Mod Files \\
-STEP 4b: -- Activate UCP JSGME Mod Files \\
-STEP 5: -- Ingame Actions \\
-
-
-=== PREREQUISITES ===
+\\
+* STEP 0: -- Prerequisites
+* STEP 1: -- Copy S2U_UCP Folder
+* STEP 2: -- Backup Save Game
+* STEP 3a: -- Run Unpack Script
+* STEP 3b: -- Activate Unpacked Version
+* STEP 3c: -- Rename TOCFiles
+* STEP 4a: -- Run UCP Script
+* STEP 4b: -- Activate UCP
+* STEP 5: -- Ingame Actions
+\\
+\\
+----
+=== STEP 0: -- Prerequisites ===
 
 This mod requires that you have already installed the latest official patch (v1.02) which is included in the free PC DLC Pack (Legends and Speedhunters packs), go to http://store.origin.com/ and search for "unleashed", then choose the version that suits you:
 
@@ -89,7 +90,7 @@ Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate 
   
 {{images/UCP_STEP_3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
 
-=== STEP 3c: -- Activate Unpacked Version ===
+=== STEP 3c: -- Rename TOCFiles ===
 
 Once the unpacked version has been activated, you need to rename two files in \TOCFiles\ to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
 
@@ -100,7 +101,7 @@ Once the unpacked version has been activated, you need to rename two files in \T
 \\
 \\
 ----
-=== STEP 4a: -- Create UCP JSGME Mod Files ===
+=== STEP 4a: -- Run UCP Script ===
 
 Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied into your Shift 2 install folder as administrator:
 
@@ -117,7 +118,7 @@ Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied in
 * This file automatically creates a folder called "\MODS\UCP_v1.1_JSGME_install" which contains
   all necessary files that will be used by the JSGME software to install the UCP. 
 
-=== STEP 4b: -- Activate UCP JSGME Mod Files ===
+=== STEP 4b: -- Activate UCP ===
 
 Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to activate the UCP mod:
 
