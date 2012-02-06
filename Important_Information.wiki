@@ -12,7 +12,7 @@
 ** "DVD Boxed Copy"
 ** "Non-Origin version"
 ** "Origin version"
-* if you install other mods after the UCP then it is strongly recommended you continue
+* If you install other mods after the UCP then it is strongly recommended you continue
   to use the JSGME freeware.
 
 === After installation ===
@@ -20,7 +20,7 @@
 * Reset your saved car setups in the GARAGE> TUNING menu (using the "R" key), this is due to
   the significant changes made to the car tuning (ie, fixing the reverse toe value bug). 
 * Some users may also need to reset their controller profile after installation, otherwise
-  their controler may not respond to steering.
+  their controller may not respond to steering.
 * See this thread for discussion: http://www.nogripracing.com/forum/showthread.php?t=264000
 ----
 
