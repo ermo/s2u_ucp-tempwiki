@@ -1,0 +1,25 @@
+== 1. Important information ==
+
+
+**To avoid problems, please (!) take the time to read this readme properly from start to finish.** :-)
+
+* Installations instructions are at the bottom of this readme.
+* This mod is intended for use with a freshly installed game. 
+* This mod requires that you have already installed the latest official patch (v1.02),
+  which is included in the PC DLC Pack (Legends and Speedhunters packs), which you can find
+  at http://store.origin.com/ and then search for "unleashed", then choose the version that
+  suits you:
+** "DVD Boxed Copy"
+** "Non-Origin version"
+** "Origin version"
+* if you install other mods after the UCP then it is strongly recommended you continue to use the JSGME freeware.
+
+=== After installation ===
+
+* Reset your saved car setups in the GARAGE> TUNING menu (using the 'r' key), this is due to the significant changes made to the car tuning (ie, fixing the reverse toe value bug). 
+* Some users may also need to reset their controller profile after installation, otherwise their controler may not respond to steering.
+* See this thread for discussion: http://www.nogripracing.com/forum/showthread.php?t=264000
+
+==== NEXT ====
+
+[[Changelist]]
