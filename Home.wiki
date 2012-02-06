@@ -5,6 +5,14 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 The objective is to combine bug fixes and enhancements while preserving the driving feel of stock S2U. There are no deliberate physics changes included, but car handling is improved in some cases as a result of bug fixing. As it is intended as a "patch", there are some enhancements included that would have been nice to see in an official patch, such as increasing player level maximum from 20 to 40. See changelist section below for full list of bug fixes and enhancements.
 
 It is intended for people who enjoy driving the game out of the box, but were bothered by the bugs, and as a base for future mod development, to make sure that new mods are built on top of bug free data.
+----
+
+=== INDEX ===
+* [[1. Important Information]]
+* [[2. Changelist]]
+* [[3. Installiont]]
+* [[4. Uninstallation]]
+----
 
 === Credits ===
 
