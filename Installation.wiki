@@ -1,5 +1,16 @@
 == 3. Installation ==
 
+PREREQUISITES \\
+STEP 1: -- Copy S2U_UCP Folder \\
+STEP 2: -- Backup Save Game \\
+STEP 3a: -- Run Unpack Script \\
+STEP 3b: -- Activate Unpacked Version \\
+STEP 3c: -- Rename Files \\
+STEP 4a: -- Create UCP JSGME Mod Files \\
+STEP 4b: -- Activate UCP JSGME Mod Files \\
+STEP 5: -- Ingame Actions \\
+
+
 === PREREQUISITES ===
 
 This mod requires that you have already installed the latest official patch (v1.02) which is included in the free PC DLC Pack (Legends and Speedhunters packs), go to http://store.origin.com/ and search for "unleashed", then choose the version that suits you:
@@ -16,22 +27,24 @@ Then click "add to basket", then "checkout" (which will require that you create 
 \\
 \\
 ----
-=== STEP 1 (COPY S2U_UCP FOLDER) ===
+=== STEP 1: -- Copy S2U_UCP Folder ===
 
 Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So, all the following will be copied into your Shift 2 install folder:
 
-* \MODS <--- //empty folder//
-* \UCP_modified_assets 	<--- //entire folder//
-*  dummy.bff
-*  JoneSoft.txt
-*  JSGME.exe <--- //run this in your S2U install folder//
-*  JSGME.ini
-*  nfsshift.bms
-*  NFSSInjector.exe
-*  quickbms.exe
-*  README_UCP.txt <--- //the file you are reading now//
-*  UCP_create_JSGME_install.cmd
-*  UCP_s2u_unpacker.cmd
+{{{
+ \MODS <--- //empty folder//
+ \UCP_modified_assets 	<--- //entire folder//
+  dummy.bff
+  JoneSoft.txt
+  JSGME.exe <--- //run this in your S2U install folder//
+  JSGME.ini
+  nfsshift.bms
+  NFSSInjector.exe
+  quickbms.exe
+  README_UCP.txt <--- //the file you are reading now//
+  UCP_create_JSGME_install.cmd
+  UCP_s2u_unpacker.cmd
+}}}
 
 {{images/UCP_STEP_1a_file_list.png}}
 {{images/UCP_STEP_1b_copy_to_s2u_installation_folder.png}}
@@ -43,7 +56,7 @@ Run //JSGME.exe// from your S2U install folder after copying. It will open a new
 \\
 \\
 ----
-=== STEP 2 (BACKUP SAVE GAME) ===
+=== STEP 2: -- Backup Save Game ===
 
 I strongly recommend that you make a backup of your save game file, which on my Win7 system is located at:
 
@@ -51,7 +64,7 @@ I strongly recommend that you make a backup of your save game file, which on my 
 \\
 \\
 ----
-=== STEP 3a (RUN UNPACK SCRIPT) ===
+=== STEP 3a: -- Run Unpack Script ===
 
 Run the //UCP_s2u_unpacker.cmd// script as administrator. 
  
@@ -62,7 +75,7 @@ Run the //UCP_s2u_unpacker.cmd// script as administrator.
 {{images/UCP_STEP_3ab_s2u_unpacker.cmd.png}}
 {{images/UCP_STEP_3ac_s2u_unpacker.cmd_finished.png}}
 
-=== STEP 3b (ACTIVATE UNPACKED VERSION) ===
+=== STEP 3b: -- Activate Unpacked Version ===
 
 Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate the unpacked game files:
 
@@ -76,7 +89,7 @@ Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate 
   
 {{images/UCP_STEP_3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
 
-=== STEP 3c (RENAME FILES) ===
+=== STEP 3c: -- Activate Unpacked Version ===
 
 Once the unpacked version has been activated, you need to rename two files in \TOCFiles\ to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
 
@@ -87,7 +100,7 @@ Once the unpacked version has been activated, you need to rename two files in \T
 \\
 \\
 ----
-=== STEP 4a (CREATE UCP JSGME MOD FILES) ===
+=== STEP 4a: -- Create UCP JSGME Mod Files ===
 
 Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied into your Shift 2 install folder as administrator:
 
@@ -104,7 +117,7 @@ Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied in
 * This file automatically creates a folder called "\MODS\UCP_v1.1_JSGME_install" which contains
   all necessary files that will be used by the JSGME software to install the UCP. 
 
-=== STEP 4b (ACTIVATE UCP JSGME MOD FILES) ===
+=== STEP 4b: -- Activate UCP JSGME Mod Files ===
 
 Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to activate the UCP mod:
 
@@ -112,8 +125,8 @@ Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to a
 
 * In the JSGME window, select "UCP_v1.1_JSGME_install" in the left column then activate it by
   clicking the ">" button at the top between the two columns.
-* After a little while, the activation process will prompt you about conflicts and
-  overwriting existing files.
+* After a little while, the activation process will prompt you about file conflicts between
+  the already installed S2U_Unpacked_version and the UCP.
 **  This is per design, so press "Yes" to begin the UCP activation process.
 
 {{images/UCP_STEP_4bb_JSGME_finished_activating_ucp_JSGME_install.png}}
@@ -122,7 +135,7 @@ Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to a
 \\
 \\
 ----
-=== STEP 5 (IN-GAME ACTIONS) ===
+=== STEP 5: -- Ingame Actions ===
 
 After installing the UCP, you should:
 
