@@ -6,7 +6,7 @@
 * STEP 3a: -- Run Unpack Script
 * STEP 3b: -- Activate Unpacked Version
 * STEP 3c: -- Rename TOCFiles
-* STEP 4a: -- Run UCP Script
+* STEP 4a: -- Run UCP Install Script
 * STEP 4b: -- Activate UCP
 * STEP 5: -- Ingame Actions
 \\
@@ -101,7 +101,7 @@ Once the unpacked version has been activated, you need to rename two files in th
 \\
 \\
 ----
-=== STEP 4a: -- Run UCP Script ===
+=== STEP 4a: -- Run UCP Install Script ===
 
 Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied into your Shift 2 install folder as administrator:
 
