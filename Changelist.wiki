@@ -74,19 +74,19 @@
       range, which varied between different cars, making tuning confusing).
 ***   Steering lock now displays your actual steering lock (allowing easier comparison between
       cars).
-***   Differential Power/Coast/Preload:
-****	Caster ranges now range from 0 to 70, corresponding to 0 to 7 degrees.
-****	Established a common base camber tuning range (-5 to +5 degrees) and adjustment value
+***   Differential Power/Coast/Preload
+***   Caster ranges now range from 0 to 70, corresponding to 0 to 7 degrees.
+***   Established a common base camber tuning range (-5 to +5 degrees) and adjustment value
        (0.1).
-***   Unlocked more default tuning options for lower tier cars.
-****    Fixed uneven ReboundTravel on many cars.
-****	Fixed diffuser base value typos on various cars.
-****    Fixed uneven left/right tuning on various cars.
-****    Fixed front & rear wing range for Audi R8 LMS.
-****    Fixed camber values on various cars.
-****    Corrected fuel tank locations (some were up to 2m behind car).
-****    Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to "DiffPumpSetting=0"
-        which was found to produce more consistent AI behaviour in Overhaul mod for Shift 1)
+**  Unlocked more default tuning options for lower tier cars.
+**  Fixed uneven ReboundTravel on many cars.
+**  Fixed diffuser base value typos on various cars.
+**  Fixed uneven left/right tuning on various cars.
+**  Fixed front & rear wing range for Audi R8 LMS.
+**  Fixed camber values on various cars.
+**  Corrected fuel tank locations (some were up to 2m behind car).
+**  Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to "DiffPumpSetting=0"
+    which was found to produce more consistent AI behaviour in Overhaul mod for Shift 1)
 * Fixed a bug that prevented proper upgrade of Mercedes 190e Evo2
 * Unlocked hidden cars and events (turns out this was bugged, sorry! Removed in v1.05).
 * Disabled reverse driving penalty to double available tracks in hot lap mode.
