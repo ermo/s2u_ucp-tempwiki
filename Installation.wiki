@@ -1,0 +1,108 @@
+== 3. Installation ==
+
+=== PREREQUISITES ===
+
+This mod requires that you have already installed the latest official patch (v1.02) which is included in the free PC DLC Pack (Legends and Speedhunters packs), go to http://store.origin.com/ and search for "unleashed", then choose the version that suits you:
+
+* "DVD Boxed Copy"
+* "Non-Origin version"
+* "Origin version"
+
+Then click "add to basket", then "checkout" (which will require that you create an origin.com account or to sign-in if you already have an account). 
+
+**DEACTIVATE** any previous UCP versions installed via JSGME.
+
+**DELETE** any existing UCP_modified_assets (or UCP temp files) folder in your S2U installation folder.
+\\
+\\
+----
+=== STEP 1 (COPY S2U_UCP FOLDER) ===
+
+Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So, all the following will be copied into your Shift 2 install folder:
+
+* \MODS <--- //empty folder//
+* \UCP_modified_assets 	<--- //entire folder//
+*  dummy.bff
+*  JoneSoft.txt
+*  JSGME.exe <--- //run this in your S2U install folder//
+*  JSGME.ini
+*  nfsshift.bms
+*  NFSSInjector.exe
+*  quickbms.exe
+*  README_UCP.txt <--- //the file you are reading now//
+*  UCP_create_JSGME_install.cmd
+*  UCP_s2u_unpacker.cmd
+		
+Run //JSGME.exe// from your S2U install folder after copying. It will open a new window with the title "Generic Mod Enabler".
+\\
+\\
+----
+=== STEP 2 (BACKUP SAVE GAME) ===
+
+I strongly recommend that you make a backup of your save game file, which on my Win7 system is located at:
+
+* C:\Users\ermo\Documents\SHIFT 2 UNLEASHED\profiles\default.sav
+\\
+\\
+----
+=== STEP 3a (RUN UNPACK SCRIPT) ===
+
+Run the //UCP_s2u_unpacker.cmd// script as administrator.
+
+* To run the script as administrator, you will need to right-click it and choose 'Run as administrator'
+
+=== STEP 3b (ACTIVATE UNPACKED VERSION) ===
+
+Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate the unpacked game files:
+
+* In the JSGME window, select the "S2U_Unpacked_version" row in the "Available Mods:"
+  column and press ">" to activate the unpacked version of S2U.
+* Note that this process will take a while, as JSGME needs to make backups of several
+  gigabytes of packed S2U game data and move approximately 6 GB of unpacked game data
+  to your S2U installation folder.
+
+=== STEP 3c) (RENAME FILES) ===
+
+Once the unpacked version has been activated, you need to rename two files in \TOCFiles\ to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
+
+* \TOCFiles\DirPaks.toc -> \TOCFiles\DirPaks-disabled.toc
+* \TOCFiles\VehicleLiveries.toc -> \TOCFiles\VehicleLiveries-disabled.toc
+\\
+\\
+----
+=== STEP 4a (CREATE UCP JSGME MOD FILES) ===
+
+Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied into your Shift 2 install folder as administrator:
+
+* To run the script as administrator, you will need to right-click it and choose "Run as administrator"
+* You will be asked to "Press any key to continue..." so pay attention to the script output.
+* This file automatically creates a folder called "\MODS\UCP_v1.1_JSGME_install" which contains
+  all necessary files that will be used by the JSGME software to install the UCP. 
+
+=== STEP 4b (ACTIVATE UCP JSGME MOD FILES) ===
+
+Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to activate the UCP mod:
+
+* In the JSGME window, select "UCP_v1.1_JSGME_install" in the left column then activate it by
+  clicking the ">" button at the top between the two columns.
+* After a little while, the activation process will prompt you about conflicts and
+  overwriting existing files.
+**  This is per design, so press "Yes" to begin the UCP activation process.
+* Once this is complete, click "Close" and you have finished installing the UCP.
+\\
+\\
+----
+=== STEP 5) (IN-GAME ACTIONS) ===
+
+After installing the UCP, you should:
+
+* Reset your saved car setups in the GARAGE> TUNING menu (using the 'r' key),
+**  This is due to the significant changes made to the car tuning (ie, fixing the reverse toe
+    value bug). 
+* Some users may also need to reset their controller profile after installation, otherwise
+  their controller may not respond to steering.
+\\
+\\
+----
+==== NEXT ====
+[[Uninstall]]
