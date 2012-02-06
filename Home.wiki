@@ -6,6 +6,7 @@ The objective is to combine bug fixes and enhancements while preserving the driv
 
 It is intended for people who enjoy driving the game out of the box, but were bothered by the bugs, and as a base for future mod development, to make sure that new mods are built on top of bug free data.
 
+=== Credits ===
 
 **Main Authors:** matt2380, JDougNY, ermo, and pez2k
 
@@ -13,38 +14,6 @@ It is intended for people who enjoy driving the game out of the box, but were bo
 
 Thanks to Juls for the great inject tool (with no size limtations).
 
+Thanks to aluigi for the quickbms .bff unpacking tool.
+
 Thanks to [[http://www.users.on.net/~jscones/software/products-jsgme.html|JoneSoft for the Generic Mod Enabler (JSGME) freeware]] that has been included to assist installation.
-
-
-----
-=== Wiki features ===
-
-This wiki uses the [[http://www.wikicreole.org/|Creole]] syntax, and is fully compatible with the 1.0 specification.
-
-The wiki itself is actually a mercurial repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
-
-Go ahead and try:
-
-{{{
-$ hg clone https://bitbucket.org/ermo/s2u_ucp/wiki
-}}}
-
-Wiki pages are normal files, with the .wiki extension. You can edit them locally, as well as creating new ones.
-
-=== Syntax highlighting ===
-
-You can also highlight snippets of text, we use the excellent [[http://www.pygments.org/|Pygments]] library.
-
-Here's an example of some Python code:
-
-{{{
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-}}}
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [[http://pygments.org/docs/lexers/|the vast library of Pygment lexers]], we accept the 'short name' or the 'mimetype' of anything in there.
-
-Have fun!
