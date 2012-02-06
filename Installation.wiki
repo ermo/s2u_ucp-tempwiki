@@ -92,7 +92,7 @@ Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate 
 
 === STEP 3c: -- Rename TOCFiles ===
 
-Once the unpacked version has been activated, you need to rename two files in \TOCFiles\ to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
+Once the unpacked version has been activated, you need to rename two files in the \TOCFiles folder to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
 
 {{images/UCP_STEP_3c_rename_TOCFiles.png}}
 
