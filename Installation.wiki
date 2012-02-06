@@ -36,7 +36,10 @@ Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So,
 {{images/UCP_STEP_1a_file_list.png}}
 {{images/UCP_STEP_1b_copy_to_s2u_installation_folder.png}}
 		
-Run //JSGME.exe// from your S2U install folder after copying. It will open a new window with the title "Generic Mod Enabler". {{images/UCP_STEP_1c_JSGME_1st_run.png}}
+Run //JSGME.exe// from your S2U install folder after copying. It will open a new window with the title "Generic Mod Enabler".
+
+{{images/UCP_STEP_1c_JSGME_1st_run.png}}
+
 \\
 \\
 ----
