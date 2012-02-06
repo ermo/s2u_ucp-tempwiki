@@ -20,7 +20,7 @@ Then click "add to basket", then "checkout" (which will require that you create 
 
 Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So, all the following will be copied into your Shift 2 install folder:
 
-{{UCP_STEP_#1a_file_list.png}}
+{{images/UCP_STEP_#1a_file_list.png}}
 
 * \MODS <--- //empty folder//
 * \UCP_modified_assets 	<--- //entire folder//
@@ -35,9 +35,9 @@ Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So,
 *  UCP_create_JSGME_install.cmd
 *  UCP_s2u_unpacker.cmd
 
-{{UCP_STEP_#1b_copy_to_s2u_installation_folder.png}}
+{{images/UCP_STEP_#1b_copy_to_s2u_installation_folder.png}}
 		
-Run //JSGME.exe// from your S2U install folder after copying. It will open a new window with the title "Generic Mod Enabler". {{UCP_STEP_#1c_JSGME_1st_run.png}}
+Run //JSGME.exe// from your S2U install folder after copying. It will open a new window with the title "Generic Mod Enabler". {{images/UCP_STEP_#1c_JSGME_1st_run.png}}
 \\
 \\
 ----
@@ -53,19 +53,19 @@ I strongly recommend that you make a backup of your save game file, which on my 
 
 Run the //UCP_s2u_unpacker.cmd// script as administrator. 
  
-{{UCP_STEP_#3a_s2u_unpacker.cmd_run_as_administrator.png}}
+{{images/UCP_STEP_#3a_s2u_unpacker.cmd_run_as_administrator.png}}
 
 * To run the script as administrator, you will need to right-click it and choose "Run as administrator".
 
-{{UCP_STEP_#3ab_s2u_unpacker.cmd.png}}
+{{images/UCP_STEP_#3ab_s2u_unpacker.cmd.png}}
 
-{{UCP_STEP_#3ac_s2u_unpacker.cmd_finished.png}}
+{{images/UCP_STEP_#3ac_s2u_unpacker.cmd_finished.png}}
 
 === STEP 3b (ACTIVATE UNPACKED VERSION) ===
 
 Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate the unpacked game files:
 
-{{UCP_STEP_#3ba_JSGME_activate_s2u_unpacked_version.png}}
+{{images/UCP_STEP_#3ba_JSGME_activate_s2u_unpacked_version.png}}
 
 * In the JSGME window, select the "S2U_Unpacked_version" row in the "Available Mods:"
   column and press ">" to activate the unpacked version of S2U.
@@ -73,13 +73,13 @@ Once the //UCP_s2u_unpacker.cmd// script has done its job, you need to activate 
   gigabytes of packed S2U game data and move approximately 6 GB of unpacked game data
   to your S2U installation folder.
   
-{{UCP_STEP_#3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
+{{images/UCP_STEP_#3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
 
 === STEP 3c) (RENAME FILES) ===
 
 Once the unpacked version has been activated, you need to rename two files in \TOCFiles\ to avoid the game crashing when it tries to read data from the now empty BFF game archive files:
 
-{{UCP_STEP_#3c_rename_TOCFiles.png}}
+{{images/UCP_STEP_#3c_rename_TOCFiles.png}}
 
 * \TOCFiles\DirPaks.toc -> \TOCFiles\DirPaks-disabled.toc
 * \TOCFiles\VehicleLiveries.toc -> \TOCFiles\VehicleLiveries-disabled.toc
@@ -90,15 +90,15 @@ Once the unpacked version has been activated, you need to rename two files in \T
 
 Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied into your Shift 2 install folder as administrator:
 
-{{UCP_STEP_#4a_create_JSGME_install.cmd_run_as_administrator.png}}
+{{images/UCP_STEP_#4a_create_JSGME_install.cmd_run_as_administrator.png}}
 
 * To run the script as administrator, you will need to right-click it and choose "Run as administrator"
 
-{{UCP_STEP_#4ab_create_JSGME_install.cmd.png}}
+{{images/UCP_STEP_#4ab_create_JSGME_install.cmd.png}}
 
 * You will be asked to "Press any key to continue..." so pay attention to the script output.
 
-{{UCP_STEP_#4ac_create_JSGME_install_finished.cmd.png}}
+{{images/UCP_STEP_#4ac_create_JSGME_install_finished.cmd.png}}
 
 * This file automatically creates a folder called "\MODS\UCP_v1.1_JSGME_install" which contains
   all necessary files that will be used by the JSGME software to install the UCP. 
@@ -107,7 +107,7 @@ Now you'll need run the //UCP_create_JSGME_install.cmd// file that you copied in
 
 Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to activate the UCP mod:
 
-{{UCP_STEP_#4ba_JSGME_activate_ucp_JSGME_install.png}}
+{{images/UCP_STEP_#4ba_JSGME_activate_ucp_JSGME_install.png}}
 
 * In the JSGME window, select "UCP_v1.1_JSGME_install" in the left column then activate it by
   clicking the ">" button at the top between the two columns.
