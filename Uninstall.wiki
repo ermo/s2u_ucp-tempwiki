@@ -1,0 +1,10 @@
+== 4. Uninstall ==
+
+If you want to uninstall the UCP, simply run //JSGME.exe//, select "UCP_v1.1_JSGME_install" in the right column then deactivate it by clicking the "<" button.
+* once this is complete, click "Close" and the UCP will remain deactivated.
+ (You can easily reactivate it later by following Step 4b of the Installation instructions)
+
+Similarly, you can also disable the unpacked version, though it should be pointed out that the Unpacked version and the UCP are both intended to be the base on which all other mods build.
+
+----
+//The End//
