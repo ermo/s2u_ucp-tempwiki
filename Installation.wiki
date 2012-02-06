@@ -49,7 +49,7 @@ I strongly recommend that you make a backup of your save game file, which on my 
 
 Run the //UCP_s2u_unpacker.cmd// script as administrator.
 
-* To run the script as administrator, you will need to right-click it and choose 'Run as administrator'
+* To run the script as administrator, you will need to right-click it and choose "Run as administrator"
 
 === STEP 3b (ACTIVATE UNPACKED VERSION) ===
 
@@ -96,7 +96,7 @@ Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to a
 
 After installing the UCP, you should:
 
-* Reset your saved car setups in the GARAGE> TUNING menu (using the 'r' key),
+* Reset your saved car setups in the GARAGE> TUNING menu (using the "R" key),
 **  This is due to the significant changes made to the car tuning (ie, fixing the reverse toe
     value bug). 
 * Some users may also need to reset their controller profile after installation, otherwise
