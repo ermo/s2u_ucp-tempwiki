@@ -122,7 +122,7 @@ Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to a
 \\
 \\
 ----
-=== STEP 5) (IN-GAME ACTIONS) ===
+=== STEP 5 (IN-GAME ACTIONS) ===
 
 After installing the UCP, you should:
 
