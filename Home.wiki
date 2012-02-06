@@ -14,6 +14,10 @@ It is intended for people who enjoy driving the game out of the box, but were bo
 
 Thanks to Juls for the great inject tool (with no size limtations).
 
-Thanks to aluigi for the quickbms .bff unpacking tool.
+Thanks to Luigi Auriemma for the quickbms .bff unpacking tool (http://aluigi.altervista.org/quickbms.htm).
 
-Thanks to [[http://www.users.on.net/~jscones/software/products-jsgme.html|JoneSoft for the Generic Mod Enabler (JSGME) freeware]] that has been included to assist installation.
+Thanks to JoneSoft for the Generic Mod Enabler (JSGME) freeware that has been included to assist installation (http://www.users.on.net/~jscones/software/products-jsgme.html).
+
+==== Next Page ====
+
+[[Important Information]]
