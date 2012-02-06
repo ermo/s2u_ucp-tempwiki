@@ -22,6 +22,7 @@
 * Some users may also need to reset their controller profile after installation, otherwise
   their controler may not respond to steering.
 * See this thread for discussion: http://www.nogripracing.com/forum/showthread.php?t=264000
+----
 
 ==== NEXT ====
 
