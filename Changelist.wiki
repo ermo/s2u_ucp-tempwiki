@@ -7,8 +7,8 @@
 * Only includes the JSGME installation method (simpler to support, creates automatic backups for consistency)
 * Support for dropping custom liveries (*.dds files) directly into \vehicles\textures
 * README rewritten in WikiCreole syntax for easier viewing/publishing of inline images
-* (NOT DONE) Increase maximum career level to 40 (and be able to buy speedhunter stickers)
-* (NOT DONE) Change how reward cars are handled
+* (IN TESTING) Increase maximum career level to 40 (and be able to buy speedhunter stickers)
+* (IN TESTING) Change how reward cars are handled (all cars except rival cars are now available for purchase)
 * (NOT DONE) Decrease collision stickiness
 * (NOT DONE) Decrease AI aggressiveness (we want the AI to ram less)
 * (NOT DONE) Increase damage levels/sensitivity
