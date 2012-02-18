@@ -3,12 +3,24 @@
 === v1.1 pre-release ===
 
 * New maintainer (ermo)
-* Revised installation with a selection of unpacked game files for ease of modding and compatibility
-* Only includes the JSGME installation method (simpler to support, creates automatic backups for consistency)
-* Support for dropping custom liveries (*.dds files) directly into \vehicles\textures
-* README rewritten in WikiCreole syntax for easier viewing/publishing of inline images
-* (IN TESTING) Increase maximum career level to 40 (and be able to buy speedhunter stickers)
-* (IN TESTING) Change how reward cars are handled (all cars except rival cars are now available for purchase)
+* Revised installation with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod.
+* Only includes the JSGME installation method (simpler to support, automatically creates backups)
+* Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
+* Online README for easier viewing/publishing of inline images 
+* (IN TESTING) Increase maximum career level to 40: Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
+* (IN TESTING) Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot (the rationale being that rival cars are unique):
+**  Nissan Silvia
+**  Alfa Romeo Giulietta
+**  Lamborghini Murcielago
+**  Pagani Roadster HP
+**  Lamborghini Reventon HP Cop Edition
+**  Alfa Romeo 8c Spider
+**  Aston Martin DBS Volante
+**  Audi R8 Spyder
+**  Koenigsegg Agera
+**  Pagani Cinque Roadster
+**  Chevy Camaro Dr. Pepper
+**  Porsche Autobild GT3
 * (NOT DONE) Decrease collision stickiness
 * (NOT DONE) Decrease AI aggressiveness (we want the AI to ram less)
 * (NOT DONE) Increase damage levels/sensitivity
