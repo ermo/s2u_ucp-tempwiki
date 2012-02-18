@@ -7,7 +7,7 @@
 * Only includes the JSGME installation method (simpler to support, automatically creates backups)
 * Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
 * Online README for easier viewing/publishing of inline images 
-* (IN TESTING) Increase maximum career level to 40: Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
+* (IN TESTING) Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
 * (IN TESTING) Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot, the rationale being that rival cars are unique (unlockableitems.xml, reputation_unlockables.xml):
 **  Nissan Silvia
 **  Alfa Romeo Giulietta
