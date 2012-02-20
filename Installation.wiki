@@ -25,12 +25,12 @@ Then click "add to basket", then "checkout" (which will require that you create 
 ==== JSGME UCP v1.06 (and later) users ====
 
 Each time you install a new JSGME UCP version, it is important that you:
-* **DEACTIVATE** any previous UCP version installed via JSGME.
+* **DEACTIVATE** and **DELETE** any previous UCP version installed via JSGME.
 * **DELETE** any existing UCP_modified_assets (or UCP_temp_files) folder in your S2U installation folder.
 
 ==== non-JSGME UCP v1.06 users ====
 
-Due to the need to work from a clean base, you are required to do a complete reinstall of S2U. This will ensure that you start from a known base when you install the unpacked UCP v1.1 version.
+Due to the need to work from a clean base, you are required to do a complete reinstall of S2U and patch it to v1.02 w/DLC. This will ensure that you start from a known base when you install the unpacked UCP v1.1 version.
 \\
 \\
 ----
