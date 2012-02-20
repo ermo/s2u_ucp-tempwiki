@@ -22,10 +22,10 @@ This mod requires that you have already installed the latest official patch (v1.
 
 Then click "add to basket", then "checkout" (which will require that you create an origin.com account or to sign-in if you already have an account). 
 
-==== JSGME UCP v1.06 users ====
+==== JSGME UCP v1.06 (and later) users ====
 
-If you are installing the unpacked UCP v1.1 version for the first time, it is important that you
-* **DEACTIVATE** any previous UCP versions installed via JSGME.
+Each time you install a new JSGME UCP version, it is important that you:
+* **DEACTIVATE** any previous UCP version installed via JSGME.
 * **DELETE** any existing UCP_modified_assets (or UCP_temp_files) folder in your S2U installation folder.
 
 ==== non-JSGME UCP v1.06 users ====
