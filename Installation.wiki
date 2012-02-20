@@ -22,9 +22,15 @@ This mod requires that you have already installed the latest official patch (v1.
 
 Then click "add to basket", then "checkout" (which will require that you create an origin.com account or to sign-in if you already have an account). 
 
-**DEACTIVATE** any previous UCP versions installed via JSGME.
+==== JSGME UCP v1.06 users ====
 
-**DELETE** any existing UCP_modified_assets (or UCP temp files) folder in your S2U installation folder.
+If you are installing the unpacked UCP v1.1 version for the first time, it is important that you
+* **DEACTIVATE** any previous UCP versions installed via JSGME.
+* **DELETE** any existing UCP_modified_assets (or UCP_temp_files) folder in your S2U installation folder.
+
+==== non-JSGME UCP v1.06 users ====
+
+Due to the need to work from a clean base, you are required to do a complete reinstall of S2U. This will ensure that you start from a known base when you install the unpacked UCP v1.1 version.
 \\
 \\
 ----
@@ -138,7 +144,7 @@ Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to a
 ----
 === STEP 5: -- Ingame Actions ===
 
-After installing the UCP, you should:
+After installing the UCP for the first time, you should:
 
 * Reset your saved car setups in the GARAGE> TUNING menu (using the "R" key),
 **  This is due to the significant changes made to the car tuning (ie, fixing the reverse toe
