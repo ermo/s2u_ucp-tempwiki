@@ -12,7 +12,8 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 
 === Bug fix summary: ===
 
-* Fixed reversed toe values bug (flipped positive and negative values so that they now correctly match the tuning menu)
+* Fixed reversed toe values bug (flipped positive and negative values so that
+  they now correctly match the tuning menu)
 * Fixed sounds for Nissan 2000GTR and Nissan 240ZG engine swap
 * Fixed Mazda RX8 and Porsche 914 engine descriptions
 * Fixed bug in Bugatti Veyron rear-left "SlowBump" range
@@ -23,7 +24,9 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 * Fixed front & rear wing range for Audi R8 LMS
 * Fixed camber values on various cars
 * Corrected fuel tank locations (some were up to 2m behind car)
-* Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to "DiffPumpSetting=0" which was found to produce more consistent AI behaviour in Overhaul mod for Shift 1)
+* Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to
+  "DiffPumpSetting=0" which was found to produce more consistent AI behaviour
+  in Overhaul mod for Shift 1)
 * Fixed a bug that prevented proper upgrade of Mercedes 190e Evo2
 * Reduced the magnetized effect of collisions with walls/rails and other vehicles
 * Fixed reversed mirrors in several cars
@@ -31,8 +34,11 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 
 === Enhancements summary: ===
 
-* Revised installation method with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod and the unpacked version of the Polish Tyre Mod for S2U.
-* Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
+* Revised installation method with a selection of unpacked game files for ease
+  of modding and explicit compatibility with the Career Mod and the unpacked
+  version of the Polish Tyre Mod for S2U.
+* Support for dropping custom liveries (*.dds files) directly into the
+  \vehicles\textures\ folder
 * Includes optional unpacked UCP-compatible repacks of requested mods:
 **  XBox 360 Controller buttons by Kaerar
 **  Unlock Hidden Car mods by Jeroen vd Helm
@@ -41,8 +47,11 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 * Increase garage spaces to 800
 * Speedhunters DLC cars can now be sold back to car lot (for $0)
 * Disabled reverse driving penalty to double available tracks in hot lap mode
-* Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
-* Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot, the rationale being that rival cars are unique (unlockableitems.xml, reputation_unlockables.xml):
+* Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls
+  at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
+* Change how reward cars are handled; all cars except rival cars are now
+  available for purchase in the car lot, the rationale being that rival cars
+  are unique (unlockableitems.xml, reputation_unlockables.xml):
 **  Nissan Silvia
 **  Alfa Romeo Giulietta
 **  Lamborghini Murcielago
@@ -55,12 +64,19 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 **  Pagani Cinque Roadster
 **  Chevy Camaro Dr. Pepper
 **  Porsche Autobild GT3
-* Created standard adjustment units for the following tuning options (set all base values to 0 while keeping original preset values, this way you know what you're actually setting for these items):
-**  Tyre pressure now displays the actual kPa value (previously we saw only a condensed kPa range, which varied between different cars, making tuning confusing)
-**  Steering lock now displays your actual steering lock (allowing easier comparison between cars)
+* Created standard adjustment units for the following tuning options (set all
+  base values to 0 while keeping original preset values, this way you know what
+  you're actually setting for these items):
+**  Tyre pressure now displays the actual kPa value (previously we saw only
+    a condensed kPa range, which varied between different cars, making tuning
+    confusing)
+**  Steering lock now displays your actual steering lock (allowing easier
+    comparison between cars)
 **  Differential Power/Coast/Preload
-**  Established a common base camber tuning range (-5 to +5 degrees) and adjustment value (0.1)
-* Increased caster range from 0-7.3 to 0-10 degrees (higher values provide better ffb and more direct handling)
+**  Established a common base camber tuning range (-5 to +5 degrees) and
+    adjustment value (0.1)
+* Increased caster range from 0-7.3 to 0-10 degrees (higher values provide
+  better ffb and more direct handling)
 * Unlocked more default tuning options for lower tier cars
 ----
 
@@ -75,13 +91,17 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 
 **Main Authors:** matt2380, JDougNY, ermo (current maintainer), and pez2k
 
-**Contributors and supporters:** brrupsz, Bongomaster, D1Racer, djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, MacGear, ogre2010, outlaw22, SakuraBlack, Siggs, xpertvision, Xtra.
+**Contributors and supporters:** brrupsz, Bongomaster, D1Racer, djotefsoup,
+ edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, MacGear,
+ ogre2010, outlaw22, SakuraBlack, Siggs, xpertvision, Xtra.
 
 Thanks to Juls for the great inject tool (with no size limtations).
 
 Thanks to Luigi Auriemma for the quickbms .bff unpacking tool (http://aluigi.altervista.org/quickbms.htm).
 
-Thanks to JoneSoft for the Generic Mod Enabler (JSGME) freeware that has been included to assist installation (http://www.users.on.net/~jscones/software/products-jsgme.html).
+Thanks to JoneSoft for the Generic Mod Enabler (JSGME) freeware that has been
+included to assist installation
+(http://www.users.on.net/~jscones/software/products-jsgme.html).
 ----
 
 ==== Next Page ====

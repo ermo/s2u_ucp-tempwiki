@@ -3,15 +3,23 @@
 === v1.1 pre-release ===
 
 * New maintainer (ermo)
-* Revised installation method with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod and the unpacked version of the Polish Tyre Mod for S2U.
-* Only includes the JSGME installation method (simpler to support, automatically creates backups)
-* Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
+* Revised installation method with a selection of unpacked game files for ease
+  of modding and explicit compatibility with the Career Mod and the unpacked
+  version of the Polish Tyre Mod for S2U.
+* Only includes the JSGME installation method (simpler to support,
+  automatically creates backups)
+* Support for dropping custom liveries (*.dds files) directly into the
+  \vehicles\textures\ folder
 * Online README for easier viewing/publishing of inline images
 * Includes optional unpacked UCP-compatible repacks of requrested mods:
 **  XBox 360 Controller buttons by Kaerar
 **  Unlock Hidden Car mods by Jeroen vd Helm
-* (IN TESTING) Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
-* (IN TESTING) Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot, the rationale being that rival cars are unique (unlockableitems.xml, reputation_unlockables.xml):
+* (IN TESTING) Increase maximum career level to 40 (1 million XP):
+  Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40.
+  (reputation_level.xml)
+* (IN TESTING) Change how reward cars are handled; all cars except rival cars
+  are now available for purchase in the car lot, the rationale being that rival
+  cars are unique (unlockableitems.xml, reputation_unlockables.xml):
 **  Nissan Silvia
 **  Alfa Romeo Giulietta
 **  Lamborghini Murcielago
@@ -35,7 +43,8 @@
 * Corrected engine swap HP menu stats
 * Sellable Speedhunters DLC cars
 * Increase maximum career level to 30 with following reward vehicles:
-**  Level 21 = Limited Edition cars, Alfa Romeo Giulietta, Nissan S15, and Lamborghini Murcielago LP640
+**  Level 21 = Limited Edition cars, Alfa Romeo Giulietta, Nissan S15, and
+    Lamborghini Murcielago LP640
 **  Level 22 = Chevrolet Camaro, Dr Pepper Edition
 **  Level 23 = Porsche GT3, AutoBild Edtion
 **  Level 24 = Alfa Romeo 8C Spider
@@ -56,14 +65,16 @@
 
 === v1.05 ===
 
-* Removed the "unlock hidden cars and events" component in v1.03 and v1.04 because it was 
-  causing some problems with save games/new careers/menu selection for some people, sorry!
-**  Anyone who installed v1.03 or v1.04 and had problems with their savegame should restore
-    their original unmodded backup (v1.02) of these two files before installing v1.05:
+* Removed the "unlock hidden cars and events" component in v1.03 and v1.04
+  because it was causing some problems with save games/new careers/menu
+  selection for some people, sorry!
+**  Anyone who installed v1.03 or v1.04 and had problems with their savegame
+    should restore their original unmodded backup (v1.02) of these two files
+    before installing v1.05:
 ***   \Pakfiles\BOOTFLOW.bff
 ***   \Pakfiles\BOOTPSA.bff
-* Fixed typos in three files that were included with the original game (two menu files and one
-  damage file).
+* Fixed typos in three files that were included with the original game (two
+  menu files and one damage file).
 * Enabled ability to skip career movies.
 * Corrected power of Mazda RX7 FC rotary (stock and turbo upgrades).
 * Corrected install location of some of the track.lod files
@@ -72,8 +83,9 @@
 
 === v1.04 ===
 
-* Attempted to fix problem with unlocking hidden cars which caused an issue with main menu
-  and prevented starting a new career (however this was still bugged, removed in v1.05).
+* Attempted to fix problem with unlocking hidden cars which caused an issue
+  with main menu and prevented starting a new career (however this was still
+  bugged, removed in v1.05).
 * Added some missing chassis updates that were supposed to be in v1.03.
 ----
 
@@ -81,18 +93,20 @@
 
 * Removed intro movies for a faster game startup.
 * Numerous changes within each vehicles chassis file:
-**  Fixed reversed toe values bug (flip positive and negative values to match tuning menu).
-**  Created standard adjustment units for the following tuning options (set all base values to
-    0 while keeping original preset values, this way you know what you're actually setting for
-    these items).
-***   Tyre pressure now displays the actual kPa value (previously we saw only a condensed kPa
-      range, which varied between different cars, making tuning confusing).
-***   Steering lock now displays your actual steering lock (allowing easier comparison between
-      cars).
+**  Fixed reversed toe values bug (flip positive and negative values to match
+    tuning menu).
+**  Created standard adjustment units for the following tuning options (set all
+    base values to 0 while keeping original preset values, this way you know
+    what you're actually setting for these items).
+***   Tyre pressure now displays the actual kPa value (previously we saw only a
+      condensed kPa range, which varied between different cars, making tuning
+      confusing).
+***   Steering lock now displays your actual steering lock (allowing easier
+      comparison between cars).
 ***   Differential Power/Coast/Preload
 ***   Caster ranges now range from 0 to 70, corresponding to 0 to 7 degrees.
-***   Established a common base camber tuning range (-5 to +5 degrees) and adjustment value
-       (0.1).
+***   Established a common base camber tuning range (-5 to +5 degrees) and
+      adjustment value (0.1)
 **  Unlocked more default tuning options for lower tier cars.
 **  Fixed uneven ReboundTravel on many cars.
 **  Fixed diffuser base value typos on various cars.
@@ -100,12 +114,15 @@
 **  Fixed front & rear wing range for Audi R8 LMS.
 **  Fixed camber values on various cars.
 **  Corrected fuel tank locations (some were up to 2m behind car).
-**  Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to "DiffPumpSetting=0"
-    which was found to produce more consistent AI behaviour in Overhaul mod for Shift 1)
+**  Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to
+    "DiffPumpSetting=0" which was found to produce more consistent AI behaviour
+    in Overhaul mod for Shift 1)
 * Fixed a bug that prevented proper upgrade of Mercedes 190e Evo2
-* Unlocked hidden cars and events (turns out this was bugged, sorry! Removed in v1.05).
+* Unlocked hidden cars and events (turns out this was bugged, sorry!
+  Removed in v1.05).
 * Disabled reverse driving penalty to double available tracks in hot lap mode.
-* Reduced the magnetized effect of collisions with walls/rails and other vehicles.
+* Reduced the magnetized effect of collisions with walls/rails and other
+  vehicles.
 * Fixed reversed mirrors in several cars.
 * Fixed syntax errors in tracks.lod files
 ----

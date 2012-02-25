@@ -1,10 +1,26 @@
 == 4. Uninstall ==
 
-If you want to uninstall the UCP, simply run //JSGME.exe//, select "UCP_v1.1_JSGME_install" in the right column then deactivate it by clicking the "<" button.
-* once this is complete, click "Close" and the UCP will remain deactivated.
- (You can easily reactivate it later by following Step 4b of the Installation instructions)
+If you want to uninstall the UCP, simply run //JSGME.exe//, select
+"UCP_v1.1_JSGME_install" in the right column then deactivate it by clicking
+the "<" button.
 
-Similarly, you can also disable the unpacked version, though it should be pointed out that the Unpacked version and the UCP are both intended to be the base on which all other mods build.
+Once this is complete, click "Close" and the UCP will remain deactivated.
+(You can easily reactivate it later by following Step 4b of the Installation
+instructions).
 
+Similarly, you can also disable the unpacked version, though it should be
+pointed out that the Unpacked version and the UCP are both intended to be
+the base on which all other mods build.
+
+=== 4.1 Updating the UCP ===
+
+Every so often, a new UCP version might be released. To upgrade to a newer
+version, you will need to uninstall the existing UCP version and, crucially,
+**DELETE** any existing \UCP_modified_assets\ (or \UCP_temp_files\ for v1.06)
+folder in your S2U installation folder before you install the new UCP version
+by following steps 1, 4a and 4b the Installation section.
+
+Unless otherwise specified, you will **NOT** need to disable, delete, 
+reinstall and reactivate the S2U_unpacked_version.
 ----
 //The End//
