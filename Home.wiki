@@ -18,7 +18,7 @@ It is intended for people who enjoy driving the game out of the box, but were bo
 
 **Main Authors:** matt2380, JDougNY, ermo (current maintainer), and pez2k
 
-**Contributors and supporters:** brrupsz, Bongomaster, D1Racer, djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, MacGear, ogre2010, outlaw22, SakuraBlack, Siggs, xpertvision.
+**Contributors and supporters:** brrupsz, Bongomaster, D1Racer, djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, MacGear, ogre2010, outlaw22, SakuraBlack, Siggs, xpertvision, Xtra.
 
 Thanks to Juls for the great inject tool (with no size limtations).
 
