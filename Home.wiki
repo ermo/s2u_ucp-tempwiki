@@ -31,12 +31,30 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 
 === Enhancements summary: ===
 
+* Revised installation method with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod and the unpacked version of the Polish Tyre Mod for S2U.
+* Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
+* Includes optional unpacked UCP-compatible repacks of requested mods:
+**  XBox 360 Controller buttons by Kaerar
+**  Unlock Hidden Car mods by Jeroen vd Helm
 * Removed intro movies for a faster game startup
 * Enabled ability to skip career movies
 * Increase garage spaces to 800
 * Speedhunters DLC cars can now be sold back to car lot (for $0)
 * Disabled reverse driving penalty to double available tracks in hot lap mode
-* Increase maximum career level to 40
+* Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
+* Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot, the rationale being that rival cars are unique (unlockableitems.xml, reputation_unlockables.xml):
+**  Nissan Silvia
+**  Alfa Romeo Giulietta
+**  Lamborghini Murcielago
+**  Pagani Roadster HP
+**  Lamborghini Reventon HP Cop Edition
+**  Alfa Romeo 8c Spider
+**  Aston Martin DBS Volante
+**  Audi R8 Spyder
+**  Koenigsegg Agera
+**  Pagani Cinque Roadster
+**  Chevy Camaro Dr. Pepper
+**  Porsche Autobild GT3
 * Created standard adjustment units for the following tuning options (set all base values to 0 while keeping original preset values, this way you know what you're actually setting for these items):
 **  Tyre pressure now displays the actual kPa value (previously we saw only a condensed kPa range, which varied between different cars, making tuning confusing)
 **  Steering lock now displays your actual steering lock (allowing easier comparison between cars)
