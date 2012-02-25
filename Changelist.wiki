@@ -3,13 +3,13 @@
 === v1.1 pre-release ===
 
 * New maintainer (ermo)
-* Revised installation with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod.
+* Revised installation method with a selection of unpacked game files for ease of modding and explicit compatibility with the Career Mod and the unpacked version of the Polish Tyre Mod for S2U.
 * Only includes the JSGME installation method (simpler to support, automatically creates backups)
 * Support for dropping custom liveries (*.dds files) directly into the \vehicles\textures\ folder
 * Online README for easier viewing/publishing of inline images
 * Includes optional unpacked UCP-compatible repacks of requrested mods:
-** XBox 360 Controler buttons by ADHDerby
-** Unlock Hidden Car mods by Jeroen vd Helm
+**  XBox 360 Controller buttons by Kaerar
+**  Unlock Hidden Car mods by Jeroen vd Helm
 * (IN TESTING) Increase maximum career level to 40 (1 million XP): Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40. (reputation_level.xml)
 * (IN TESTING) Change how reward cars are handled; all cars except rival cars are now available for purchase in the car lot, the rationale being that rival cars are unique (unlockableitems.xml, reputation_unlockables.xml):
 **  Nissan Silvia
