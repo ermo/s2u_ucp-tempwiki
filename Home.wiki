@@ -1,10 +1,49 @@
 == Shift 2 Unleashed - Unofficial Community Patch v1.1 ==
 
-This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracing.com modding community.
+This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracing.com modding community. 
 
-The objective is to combine bug fixes and enhancements while preserving the driving feel of stock S2U. There are no deliberate physics changes included, but car handling is improved in some cases as a result of bug fixing. As it is intended as a "patch", there are some enhancements included that would have been nice to see in an official patch, such as increasing player level maximum from 20 to 40. See changelist section below for full list of bug fixes and enhancements.
+=== Aim: === 
 
-It is intended for people who enjoy driving the game out of the box, but were bothered by the bugs, and as a base for future mod development, to make sure that new mods are built on top of bug free data.
+To combine bug fixes and enhancements while preserving the driving feel of stock S2U. There are no deliberate physics changes included, but car handling is improved in some cases as a result of bug fixing. There are also some enhancements included that would have been nice to see in an official patch. 
+
+=== Audience: === 
+
+People who enjoy driving the game out of the box, but were bothered by the bugs; and as a clean base upon which future mods can be developed.
+
+=== Bug fix summary: ===
+
+* Fixed reversed toe values bug (flipped positive and negative values so that they now correctly match the tuning menu)
+* Fixed sounds for Nissan 2000GTR and Nissan 240ZG engine swap
+* Fixed Mazda RX8 and Porsche 914 engine descriptions
+* Fixed bug in Bugatti Veyron rear-left "SlowBump" range
+* Corrected power of Mazda RX7 FC rotary (stock and turbo upgrades)
+* Fixed uneven ReboundTravel on many cars
+* Fixed diffuser base value typos on various cars
+* Fixed uneven left/right tuning on various cars
+* Fixed front & rear wing range for Audi R8 LMS
+* Fixed camber values on various cars
+* Corrected fuel tank locations (some were up to 2m behind car)
+* Fixed missing DiffPumpSetting values (from "DiffPumpSetting= " to "DiffPumpSetting=0" which was found to produce more consistent AI behaviour in Overhaul mod for Shift 1)
+* Fixed a bug that prevented proper upgrade of Mercedes 190e Evo2
+* Reduced the magnetized effect of collisions with walls/rails and other vehicles
+* Fixed reversed mirrors in several cars
+* Fixed syntax errors in tracks.lod files
+
+=== Enhancements summary: ===
+
+* Removed intro movies for a faster game startup
+* Enabled ability to skip career movies
+* Increase garage spaces to 800
+* Speedhunters DLC cars can now be sold back to car lot (for $0)
+* Disabled reverse driving penalty to double available tracks in hot lap mode
+* Increase maximum career level to 40
+* Created standard adjustment units for the following tuning options (set all base values to 0 while keeping original preset values, this way you know what you're actually setting for these items):
+**  Tyre pressure now displays the actual kPa value (previously we saw only a condensed kPa range, which varied between different cars, making tuning confusing)
+**  Steering lock now displays your actual steering lock (allowing easier comparison between cars)
+**  Differential Power/Coast/Preload
+**  Established a common base camber tuning range (-5 to +5 degrees) and adjustment value (0.1)
+* Increased caster range from 0-7.3 to 0-10 degrees (higher values provide better ffb and more direct handling)
+* Unlocked more default tuning options for lower tier cars
 ----
 
 === INDEX ===
