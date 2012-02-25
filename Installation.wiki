@@ -39,7 +39,7 @@ Due to the need to work from a clean base, you are required to do a complete rei
 Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder. So, all the following will be copied into your Shift 2 install folder:
 
 {{{
- \MODS <--- //if it doesn't exist, it will be created by JSGME.exe on its first run//
+ \MODS <--- //entire folder//
  \UCP_modified_assets 	<--- //entire folder//
   dummy.bff
   JoneSoft.txt
