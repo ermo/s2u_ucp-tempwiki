@@ -13,6 +13,7 @@
 * Online README for easier viewing/publishing of inline images
 * Includes optional unpacked UCP-compatible repacks of requrested mods:
 **  XBox 360 Controller buttons by Kaerar
+**  DFGT & PS3 Controller buttons by vincentgarcia (pending permission)
 **  Unlock Hidden Car mods by Jeroen vd Helm
 * (IN TESTING) Increase maximum career level to 40 (1 million XP):
   Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40.
