@@ -1,6 +1,6 @@
 == 2. Changelist ==
 
-=== v1.1 pre-release ===
+=== v1.1 pre-release (v1.0.95) ===
 
 * New maintainer (ermo)
 * Revised installation method with a selection of unpacked game files for ease
