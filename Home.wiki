@@ -41,6 +41,7 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
   \vehicles\textures\ folder
 * Includes optional unpacked UCP-compatible repacks of requested mods:
 **  XBox 360 Controller buttons by Kaerar
+**  DFGT & PS3 Controller buttons by vincentgarcia (pending permission)
 **  Unlock Hidden Car mods by Jeroen vd Helm
 * Removed intro movies for a faster game startup
 * Enabled ability to skip career movies
