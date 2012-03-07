@@ -11,7 +11,7 @@
 * Support for dropping custom liveries (*.dds files) directly into the
   \vehicles\textures\ folder
 * Online README for easier viewing/publishing of inline images
-* Includes optional unpacked UCP-compatible repacks of requrested mods:
+* Includes optional unpacked UCP-compatible repacks of requested mods:
 **  XBox 360 Controller buttons by Kaerar
 **  DFGT & PS3 Controller buttons by vincentgarcia (pending permission)
 **  Unlock Hidden Car mods by Jeroen vd Helm
