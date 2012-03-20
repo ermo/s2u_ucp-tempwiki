@@ -1,11 +1,10 @@
 == 3. Installation ==
 \\
 * STEP 0: -- Prerequisites
-* STEP 1: -- Copy S2U_UCP Folder
+* STEP 1: -- Copy S2U_UCP folder to your S2U installation folder
 * STEP 2: -- Backup Save Game
 * STEP 3a: -- Run Unpack Script
 * STEP 3b: -- Activate Unpacked Version
-* STEP 3c: -- Rename TOCFiles
 * STEP 4a: -- Run UCP Install Script
 * STEP 4b: -- Activate UCP
 * STEP 5: -- Ingame Actions
@@ -108,17 +107,6 @@ the unpacked game files:
   of unpacked game data to your S2U installation folder.
   
 {{images/UCP_STEP_3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
-
-=== STEP 3c: -- Rename TOCFiles ===
-
-Once the unpacked version has been activated, you need to rename two files in
-the \TOCFiles folder to avoid the game crashing when it tries to read data from
-the now empty BFF game archive files:
-
-{{images/UCP_STEP_3c_rename_TOCFiles.png}}
-
-* \TOCFiles\DirPaks.toc -> \TOCFiles\DirPaks-disabled.toc
-* \TOCFiles\VehicleLiveries.toc -> \TOCFiles\VehicleLiveries-disabled.toc
 \\
 \\
 ----
