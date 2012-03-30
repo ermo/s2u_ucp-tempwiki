@@ -1,6 +1,6 @@
 == 2. Changelist ==
 
-=== v1.1 pre-release (v1.0.96) ===
+=== v1.1 pre-release (v1.0.98) ===
 
 * New maintainer (ermo)
 * Revised installation method with a selection of unpacked game files for ease
@@ -15,6 +15,7 @@
 **  XBox 360 Controller buttons by Kaerar
 **  DFGT & PS3 Controller buttons by vincentgarcia
 **  Unlock Hidden Car mods by Jeroen vd Helm
+**  Minimod dinput8.dll by Juls
 * (IN TESTING) Increase maximum career level to 40 (1 million XP):
   Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40.
   (reputation_level.xml)
@@ -33,7 +34,7 @@
 **  Pagani Cinque Roadster
 **  Chevy Camaro Dr. Pepper
 **  Porsche Autobild GT3
-* (NOT DONE) Decrease collision stickiness
+* (IN TESTING) Decrease car-to-car collision stickiness (Set FeelerFlags=0 in all chassis files)
 * (NOT DONE) Decrease AI aggressiveness (we want the AI to ram less)
 * (NOT DONE) Increase damage levels/sensitivity
 ----
