@@ -50,6 +50,7 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 **  XBox 360 Controller buttons by Kaerar
 **  DFGT & PS3 Controller buttons by vincentgarcia
 **  Unlock Hidden Car mods by Jeroen vd Helm
+**  Minimod dinput8.dll by Juls
 * Removed intro movies for a faster game startup
 * Enabled ability to skip career movies
 * Increase garage spaces to 800
@@ -96,7 +97,7 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
  djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson,
  MacGear, LawRhed, ogre2010, outlaw22, SakuraBlack, Siggs, xpertvision, Xtra.
 
-Thanks to Juls for the great inject tool (with no size limtations).
+Thanks to Juls for the great inject tool (with no size limtations) and the high priority input thread DLL.
 
 Thanks to Luigi Auriemma for the quickbms .bff unpacking tool (http://aluigi.altervista.org/quickbms.htm).
 
