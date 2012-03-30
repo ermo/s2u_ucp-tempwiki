@@ -10,6 +10,13 @@ To combine bug fixes and enhancements while preserving the driving feel of stock
 
 People who enjoy driving the game out of the box, but were bothered by the bugs; and as a clean base upon which future mods can be developed.
 
+=== INDEX ===
+# [[Important Information]]
+# [[Changelist]]
+# [[Installation|]]
+# [[Uninstallation]]
+----
+
 === Bug fix summary: ===
 
 * Fixed reversed toe values bug (flipped positive and negative values so that
@@ -79,13 +86,6 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 * Increased caster range from 0-7.3 to 0-10 degrees (higher values provide
   better ffb and more direct handling)
 * Unlocked more default tuning options for lower tier cars
-----
-
-=== INDEX ===
-# [[Important Information]]
-# [[Changelist]]
-# [[Installation|]]
-# [[Uninstallation]]
 ----
 
 === Credits ===
