@@ -14,7 +14,7 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 # [[Important Information]]
 # [[Changelist]]
 # [[Installation|]]
-# [[Uninstallation]] (Also contains UCP update instructions)
+# [[Uninstall]] (Also contains UCP update instructions)
 ----
 
 === Bug fix summary: ===
