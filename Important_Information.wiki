@@ -24,6 +24,20 @@
   otherwise their controller may not respond to steering.
 * See this thread for discussion:
   http://www.nogripracing.com/forum/showthread.php?t=264000
+
+=== Longer Loading Times ===
+
+The UCP will unpack a subset of the packed game files in order to make it easier to tinker with the game data files and create compatible mods on top of the UCP.
+
+As a consequence of all cars being unpacked, the loading times when switching cars in the garage will be slightly higher due to the seek overhead associated with loading many small files into system memory for display on the screen. SSD users will of course not be impacted as much by this as users of traditional rotating storage.
+
+=== Space Requirements ===
+
+Due to the way the UCP install process is designed, backups will take up a large amount of space. Several people have reported that a fully patched game with this version of the UCP takes up around 21GB of space, including active game files and backups.
+
+The astute observer will have noticed that it is possible to save some space by manually moving the files in the MODS\S2U_unpacked_version\ folder into the S2U install folder proper and thus permanently unpacking a portion of the packed files. This manual method is //**unsupported**//.
+
+If you decide to use this manual, //**unsupported**// method and your install breaks, you get to keep both pieces and fix any resulting issues yourself. If you complain about this, expect to be met with scorn, ridicule and contempt. Consider this a gentle warning from your friendly UCP maintainer. (-:
 ----
 
 ==== NEXT ====
