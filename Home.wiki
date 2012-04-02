@@ -10,7 +10,7 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 === Audience: === 
 
 * People who enjoy driving the game out of the box, but were bothered by the bugs
-* S2U modders, which can use the UCP as a clean base upon which their future mods can be developed.
+* S2U modders, who can use the UCP as a clean base upon which their future mods can be developed.
 
 === INDEX ===
 # [[Important Information]]
