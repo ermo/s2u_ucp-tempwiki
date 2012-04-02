@@ -9,7 +9,7 @@ Once this is complete, click "Close" and the UCP will remain deactivated.
 instructions).
 
 Similarly, you can also disable the unpacked version, though it should be
-pointed out that the Unpacked version and the UCP are both intended to be
+pointed out that the unpacked version and the UCP are both intended to be
 the base on which all other mods build.
 
 === 4.1 Updating the UCP ===
