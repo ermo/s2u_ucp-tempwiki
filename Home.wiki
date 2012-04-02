@@ -79,8 +79,8 @@ People who enjoy driving the game out of the box, but were bothered by the bugs;
 **  Tyre pressure now displays the actual kPa value (previously we saw only
     a condensed kPa range, which varied between different cars, making tuning
     confusing)
-**  Steering lock now displays your actual steering lock (allowing easier
-    comparison between cars)
+**  Steering lock now displays your actual steering lock in degrees
+    (allowing easier comparison between cars)
 **  Differential Power/Coast/Preload
 **  Established a common base camber tuning range (-5 to +5 degrees) and
     adjustment value (0.1)
