@@ -27,7 +27,7 @@ an origin.com account or to sign-in if you already have an account).
 
 ==== JSGME UCP v1.06 (and later) users ====
 
-Each time you install a new JSGME UCP version, it is important that you:
+Each time you install a new JSGME UCP version, it is important that you first:
 * **DEACTIVATE** and **DELETE** any previous UCP version installed via JSGME.
 * **DELETE** any existing UCP_modified_assets (or UCP_temp_files) folder in your
   S2U installation folder.
@@ -42,29 +42,17 @@ from a known base when you install the unpacked UCP v1.1 version.
 ----
 === STEP 1: -- Copy S2U_UCP Folder ===
 
-Copy the contents of this "S2U_UCP" folder into your Shift 2 install folder.
-So, all the following will be copied into your Shift 2 install folder:
-
-{{{
- \MODS  <--- //entire folder//
- \UCP_modified_assets  <--- //entire folder//
-  dummy.bff
-  JoneSoft.txt
-  JSGME.exe  <--- //run this in your S2U install folder//
-  JSGME.ini
-  nfsshift.bms
-  NFSSInjector.exe
-  quickbms.exe
-  README_UCP.txt  <--- //the file you are reading now//
-  UCP_create_JSGME_install.cmd
-  UCP_s2u_unpacker.cmd
-}}}
+Copy the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in "C:\Program Files (x86)\SHIFT 2 Unleashed\").
+So, all the following will be copied into your S2U installation folder:
 
 {{images/UCP_STEP_1a_file_list.png}}
+
+After copying, your S2U installation folder should look roughly like this:
+
 {{images/UCP_STEP_1b_copy_to_s2u_installation_folder.png}}
 		
-Run //JSGME.exe// from your S2U install folder after copying. It will open a
-new window with the title "Generic Mod Enabler".
+After copying, run //JSGME.exe// from your S2U installation folder.
+It will open a new window with the title "Generic Mod Enabler".
 
 {{images/UCP_STEP_1c_JSGME_1st_run.png}}
 
@@ -82,7 +70,7 @@ Win7 system is located at:
 ----
 === STEP 3a: -- Run Unpack Script ===
 
-Run the //UCP_s2u_unpacker.cmd// script as administrator. 
+Run the //UCP_s2u_unpacker.cmd// script as administrator.
  
 {{images/UCP_STEP_3a_s2u_unpacker.cmd_run_as_administrator.png}}
 
@@ -132,6 +120,8 @@ into your Shift 2 install folder as administrator:
   install the UCP. 
 
 === STEP 4b: -- Activate UCP ===
+
+**NOTE:** The UCP was designed to be activated on top of the S2U_unpacked_version that was activated in Step 3b. The UCP will not function correctly unless it is activated on top of a previously activated S2U_unpacked_version!
 
 Once the //UCP_create_JSGME_install.cmd// script has done its job, you need to
 activate the UCP mod:
