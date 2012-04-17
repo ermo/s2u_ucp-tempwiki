@@ -1,6 +1,14 @@
 == Shift 2 Unleashed - Unofficial Community Patch v1.1 ==
 
 This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracing.com modding community. 
+----
+=== Table of Content ===
+# **[[Home|Introduction** (this page)]]
+# **[[Important Information]]**
+# **[[Changelist]]**
+# **[[Installation]]**
+# **[[Uninstall]]** (Also contains UCP update instructions)
+----
 
 === Aim: === 
 
@@ -11,13 +19,6 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 
 * People who enjoy driving the game out of the box, but were bothered by the bugs
 * S2U modders, who can use the UCP as a clean base upon which their future mods can be developed.
-
-=== INDEX ===
-# [[Important Information]]
-# [[Changelist]]
-# [[Installation|]]
-# [[Uninstall]] (Also contains UCP update instructions)
-----
 
 === Bug fix summary: ===
 
