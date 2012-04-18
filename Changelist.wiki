@@ -16,6 +16,7 @@
 **  DFGT & PS3 Controller buttons by vincentgarcia
 **  Unlock Hidden Car mods by Jeroen vd Helm
 **  Minimod dinput8.dll by Juls
+* Fix uneven rear brake torque on Radical SR3
 * (IN TESTING) Increase maximum career level to 40 (1 million XP):
   Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40.
   (reputation_level.xml)
