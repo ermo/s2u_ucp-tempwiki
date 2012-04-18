@@ -42,7 +42,7 @@ from a known base when you install the unpacked UCP v1.1 version.
 ----
 === STEP 1: -- Copy S2U_UCP Folder ===
 
-Copy the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in "C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\").
+Copy the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in {{{"C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\"}}}).
 So, all the following will be copied into your S2U installation folder:
 
 {{images/UCP_STEP_1a_file_list.png}}
