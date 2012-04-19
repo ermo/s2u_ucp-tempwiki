@@ -1,11 +1,11 @@
 == 2. Changelist ==
 
-=== v1.1 pre-release (v1.0.98) ===
+=== v1.1 pre-release (v1.0.99) ===
 
 * New maintainer (ermo)
 * Revised installation method with a selection of unpacked game files for ease
   of modding and explicit compatibility with the Career Mod and the unpacked
-  version of the Polish Tyre Mod for S2U.
+  version of the Polish Tyre Mod for S2U
 * Only includes the JSGME installation method (simpler to support,
   automatically creates backups)
 * Support for dropping custom liveries (*.dds files) directly into the
