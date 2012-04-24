@@ -92,7 +92,10 @@ the unpacked game files:
   of S2U.
 * Note that this process will take a while, as JSGME needs to make backups
   of several gigabytes of packed S2U game data and move approximately 6 GB
-  of unpacked game data to your S2U installation folder.
+  of unpacked game data to your S2U installation folder. On my system, it
+  takes around 10-15 minutes, where the JSGME application says 'not responding'
+  -- this simply means that JSGME is busy doing its thing. :)
+  
   
 {{images/UCP_STEP_3bb_JSGME_finished_activating_s2u_unpacked_version.png}}
 \\
