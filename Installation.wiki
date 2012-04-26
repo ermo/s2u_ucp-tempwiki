@@ -18,7 +18,7 @@ This mod requires that you have already installed the latest official patch
 packs), go to http://store.origin.com/ and search for "unleashed", then choose
 the version that suits you:
 
-* "DVD Boxed Copy"
+* "DVD Boxed Copy" (people have reported that it was necessary to install patch v1.01 before installing the DLC with this version; if they didn't, no DLC cars or tracks would be present)
 * "Non-Origin version"
 * "Origin version"
 
