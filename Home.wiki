@@ -106,7 +106,7 @@ Thanks to Luigi Auriemma for the quickbms .bff unpacking tool (http://aluigi.alt
 
 Thanks to JoneSoft for the Generic Mod Enabler (JSGME) freeware that has been
 included to assist installation
-(http://www.users.on.net/~jscones/software/products-jsgme.html).
+(http://www.users.on.net/~jscones/software/products-jsgme.html) (link currently down).
 ----
 
 ==== Next Page ====
