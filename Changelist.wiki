@@ -17,6 +17,8 @@
 **  Unlock Hidden Car mods by Jeroen vd Helm
 **  Minimod dinput8.dll by Juls
 * Fix uneven rear brake torque on Radical SR3
+* Fix uneven front spininertia value for AE86s
+* Fix reversed suspension link positions in aarm_multilink.sdf
 * (IN TESTING) Increase maximum career level to 40 (1 million XP):
   Unlocks the arrow vinyls at lvl 35 and speedhunter vinyls at lvl 40.
   (reputation_level.xml)
