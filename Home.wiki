@@ -22,6 +22,7 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 
 === Bug fix summary: ===
 
+* Fixed reversed suspension link positions in aarm_multilink.sdf
 * Fixed reversed toe values bug (flipped positive and negative values so that
   they now correctly match the tuning menu)
 * Fixed sounds for Nissan 2000GTR and Nissan 240ZG engine swap
