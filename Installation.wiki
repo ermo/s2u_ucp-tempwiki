@@ -156,4 +156,4 @@ you should:
 \\
 ----
 ==== NEXT ====
-[[Uninstall]]
+[[Updating]]
