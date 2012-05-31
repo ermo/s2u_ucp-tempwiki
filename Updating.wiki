@@ -1,4 +1,4 @@
-=== 4 Updating the UCP ===
+=== Updating the UCP ===
 
 Every so often, a new UCP version might be released. To upgrade to a newer
 version, you will need to deactivate the existing UCP version with JSGME and, crucially,
@@ -11,6 +11,6 @@ reinstall and reactivate the S2U_unpacked_version.
 
 ----
 
-=== Next Page ===
+=== NEXT ===
 
 [[Uninstall]]
