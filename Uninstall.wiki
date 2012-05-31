@@ -12,15 +12,8 @@ Similarly, you can also disable the unpacked version, though it should be
 pointed out that the unpacked version and the UCP are both intended to be
 the base on which all other mods build.
 
-=== 4.1 Updating the UCP ===
-
-Every so often, a new UCP version might be released. To upgrade to a newer
-version, you will need to deactivate the existing UCP version with JSGME and, crucially,
-**DELETE** any existing \UCP_modified_assets\ (or \UCP_temp_files\ for v1.06)
-folder in your S2U installation folder before you install the new UCP version
-by following steps 1, 4a and 4b in the **[[Installation]]** section.
-
-Unless otherwise specified, you will **NOT** need to deactivate, delete, 
-reinstall and reactivate the S2U_unpacked_version.
 ----
-//The End//
+
+==== Next Page ====
+
+[[Changelist]]
