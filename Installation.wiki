@@ -1,4 +1,4 @@
-== 3. Installation ==
+== Installation ==
 \\
 * STEP 0: -- Prerequisites
 * STEP 1: -- Copy S2U_UCP folder to your S2U installation folder
@@ -155,5 +155,7 @@ you should:
 \\
 \\
 ----
+
 ==== NEXT ====
+
 [[Updating]]
