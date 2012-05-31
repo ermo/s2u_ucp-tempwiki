@@ -113,6 +113,6 @@ included to assist installation
 (http://www.users.on.net/~jscones/software/products-jsgme.html) (link currently down).
 ----
 
-==== Next Page ====
+==== NEXT ====
 
 [[Important Information]]
