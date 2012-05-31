@@ -1,4 +1,4 @@
-== 1. Important information ==
+== Important information ==
 
 
 **To avoid problems, please (!) take the time to read this readme properly from start to finish.** :-)
