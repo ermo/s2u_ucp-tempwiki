@@ -72,7 +72,7 @@ Win7 system is located at:
 ----
 === STEP 3a: -- Run Unpack Script ===
 
-Run the //UCP_s2u_unpacker.cmd// script **as administrator**.
+In your S2U Installation folder, run the //UCP_s2u_unpacker.cmd// script **as administrator**.
  
 {{images/UCP_STEP_3a_s2u_unpacker.cmd_run_as_administrator.png}}
 
@@ -106,7 +106,7 @@ the unpacked game files:
 === STEP 4a: -- Run UCP Install Script ===
 
 Now you'll need to run the //UCP_create_JSGME_install.cmd// script that you copied
-into your Shift 2 install folder **as administrator**:
+into your Shift 2 Installation folder **as administrator**:
 
 {{images/UCP_STEP_4a_create_JSGME_install.cmd_run_as_administrator.png}}
 
