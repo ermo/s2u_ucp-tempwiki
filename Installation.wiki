@@ -44,7 +44,7 @@ from a known base when you install the unpacked UCP v1.1 version.
 
 **NOTE**: If you are upgrading from a previous UCP v1.1-prerelease, do remember to remove the existing <S2U Installation>\UCP_modified_assets folder. If you are upgrading from v1.06 or earlier, see the two paragraphs above in STEP 0 -- Prerequisites.
 
-Copy the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in {{{"C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\"}}}).
+Extract the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in {{{"C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\"}}}).
 So, all the following will be copied into your S2U installation folder:
 
 {{images/UCP_STEP_1a_file_list.png}}
