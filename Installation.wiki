@@ -1,7 +1,7 @@
 == Installation ==
 \\
 * STEP 0: -- Prerequisites
-* STEP 1: -- Copy S2U_UCP folder to your S2U installation folder
+* STEP 1: -- Extract s2u_ucp zipped folder to your S2U installation folder
 * STEP 2: -- Backup Save Game
 * STEP 3a: -- Run Unpack Script
 * STEP 3b: -- Activate Unpacked Version
@@ -40,20 +40,21 @@ from a known base when you install the unpacked UCP v1.1 version.
 \\
 \\
 ----
-=== STEP 1: -- Copy S2U_UCP Folder ===
+=== STEP 1: -- Extract s2u_ucp zipped folder to your S2U installation folder ===
 
 **NOTE**: If you are upgrading from a previous UCP v1.1-prerelease, do remember to remove the existing <S2U Installation>\UCP_modified_assets folder. If you are upgrading from v1.06 or earlier, see the two paragraphs above in STEP 0 -- Prerequisites.
 
-Extract the contents of this "S2U_UCP" folder into the root of your S2U installation folder (which is typically located in {{{"C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\"}}}).
-So, all the following will be copied into your S2U installation folder:
+The downloaded s2u_ucp zipped folder contains the following files:
 
 {{images/UCP_STEP_1a_file_list.png}}
 
-After copying, your S2U installation folder should look roughly like this:
+Extract the contents of the downloaded s2u_ucp zipped folder into the root of your S2U installation folder (which is typically located in {{{"C:\Program Files (x86)\Electronic Arts\SHIFT 2 UNLEASHED\"}}}).
+
+After extracting the files to your S2U installation folder, your S2U installation folder should look roughly like this:
 
 {{images/UCP_STEP_1b_copy_to_s2u_installation_folder.png}}
 		
-After copying, run //JSGME.exe// from your S2U installation folder.
+After extraction, run //JSGME.exe// from your S2U installation folder.
 It will open a new window with the title "Generic Mod Enabler".
 
 {{images/UCP_STEP_1c_JSGME_1st_run.png}}
