@@ -1,8 +1,8 @@
-== Shift 2 Unleashed - Unofficial Community Patch v1.1 ==
+= Shift 2 Unleashed - Unofficial Community Patch v1.1 =
 
 This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracing.com modding community. 
 ----
-=== Table of Contents ===
+== Table of Contents ==
 * **[[Home|Introduction** (this page)]]
 * **[[Important_Information]]**
 * **[[Installation]]**
@@ -11,17 +11,17 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 * **[[Changelist]]**
 ----
 
-=== Aim: === 
+== Aim: ==
 
 * To combine bug fixes and enhancements while preserving the driving feel of stock S2U. There are no deliberate physics changes included, but car handling is improved in some cases as a result of bug fixing. There are also some enhancements included that would have been nice to see in an official patch.
 * To maintain a S2U baseline that will make it easier and more convenient to create and distribute mods for S2U w/UCP installed.
 
-=== Audience: === 
+== Audience: ==
 
 * People who enjoy driving the game out of the box, but were bothered by the bugs
 * S2U modders, who can use the UCP as a clean base upon which their future mods can be developed.
 
-=== Bug fix summary: ===
+== Bug fix summary: ==
 
 * Fixed reversed suspension link positions in aarm_multilink.sdf
 * Fixed reversed toe values bug (flipped positive and negative values so that
@@ -44,7 +44,7 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 * Fixed reversed mirrors in several cars
 * Fixed syntax errors in tracks.lod files
 
-=== Enhancements summary: ===
+== Enhancements summary: ==
 
 * Revised installation method with a selection of unpacked game files for ease
   of modding and explicit compatibility with the Career Mod and the unpacked
@@ -95,7 +95,7 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 * Tweaked tyre sounds to be more prominent
 ----
 
-=== Credits ===
+== Credits ==
 
 **Main Authors:** matt2380, JDougNY, ermo (current maintainer), and pez2k
 
@@ -113,6 +113,6 @@ included to assist installation
 (http://www.users.on.net/~jscones/software/products-jsgme.html) (link currently down).
 ----
 
-==== NEXT ====
+=== NEXT ===
 
 [[Important Information]]
