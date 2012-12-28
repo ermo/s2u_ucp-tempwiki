@@ -1,4 +1,4 @@
-== Important information ==
+= Important information =
 
 
 **To avoid problems, please (!) take the time to read this readme properly from start to finish.** :-)
@@ -15,7 +15,7 @@
 * If you install other mods after the UCP then it is strongly recommended you
   continue to use the JSGME freeware.
 
-=== After installation ===
+== After installation ==
 
 * Reset your saved car setups in the GARAGE> TUNING menu (using the "R" key),
   this is due to the significant changes made to the car tuning (ie, fixing
@@ -25,17 +25,17 @@
 * See this thread for discussion:
   http://nogripracing.com/forum/showthread.php?t=287425
 
-=== Longer Loading Times ===
+== Longer Loading Times ==
 
 The UCP will unpack a subset of the packed game files in order to make it easier to tinker with the game data files and create compatible mods on top of the UCP.
 
 As a consequence of all cars being unpacked, the loading times when switching cars in the garage will be slightly higher due to the seek overhead associated with loading many small files into system memory for display on the screen. SSD users will of course not be impacted as much by this as users of traditional rotating storage.
 
-=== Space Requirements ===
+== Space Requirements ==
 
 Due to the way the UCP install process is designed, backups will take up a large amount of space. Several people have reported that a fully patched game with this version of the UCP takes up around 21GB of space, including active game files and backups.
 ----
 
-==== NEXT ====
+=== NEXT ===
 
 [[Installation]]
