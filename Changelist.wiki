@@ -1,6 +1,6 @@
-== Changelist ==
+= Changelist =
 
-=== v1.1 pre-release (v1.0.99e) ===
+== v1.1 pre-release (v1.0.99e) ==
 
 * New maintainer (ermo)
 * Revised installation method with a selection of unpacked game files for ease
@@ -44,7 +44,7 @@
 * (NOT DONE) Increase damage levels/sensitivity
 ----
 
-=== v1.06 ===
+== v1.06 ==
 
 * New backup and install method
 * Corrected engine swap HP menu stats
@@ -70,7 +70,7 @@
 * Fixed bug in Bugatti Veyron rear-left SlowBumpRange
 ----
 
-=== v1.05 ===
+== v1.05 ==
 
 * Removed the "unlock hidden cars and events" component in v1.03 and v1.04
   because it was causing some problems with save games/new careers/menu
@@ -88,7 +88,7 @@
 * Adjusted max caster from 70 to 73 (to match range of default game = 72.5)
 ----
 
-=== v1.04 ===
+== v1.04 ==
 
 * Attempted to fix problem with unlocking hidden cars which caused an issue
   with main menu and prevented starting a new career (however this was still
@@ -96,7 +96,7 @@
 * Added some missing chassis updates that were supposed to be in v1.03.
 ----
 
-=== v1.03 ===
+== v1.03 ==
 
 * Removed intro movies for a faster game startup.
 * Numerous changes within each vehicles chassis file:
@@ -134,6 +134,6 @@
 * Fixed syntax errors in tracks.lod files
 ----
 
-==== BACK TO HOME ====
+=== BACK TO HOME ===
 
 [[Home]]
