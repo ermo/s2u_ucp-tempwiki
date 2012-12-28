@@ -1,4 +1,4 @@
-= Uninstall =
+== Uninstall ==
 
 If you want to uninstall the UCP, simply run //JSGME.exe//, select
 "UCP_v1.1_JSGME_install" in the right column then deactivate it by clicking
