@@ -115,4 +115,4 @@ included to assist installation
 
 === NEXT ===
 
-[[Important Information]]
+[[Important_Information|Important Information]]
