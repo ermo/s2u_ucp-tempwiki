@@ -4,7 +4,7 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 ----
 == Table of Contents ==
 * **[[Home|Introduction** (this page)]]
-* **[[Important_Information]]**
+* **[[Important_Information|Important Information]]**
 * **[[Installation]]**
 * **[[Updating]]**
 * **[[Uninstall]]**
@@ -99,9 +99,9 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 
 **Main Authors:** matt2380, JDougNY, ermo (current maintainer), and pez2k
 
-**Contributors and supporters:** brrupsz, Bongomaster, D1Racer, darkcyde,
- djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson,
- MacGear, LawRhed, ogre2010, outlaw22, SakuraBlack, Siggs, SternRav0R, tulib202,
+**Contributors and supporters:** Aerex, Bongomaster, brrupsz, bt48, D1Racer, darkcyde,
+ djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, Kultag
+ MacGear, Moorsman74, LawRhed, ogre2010, outlaw22, SakuraBlack, Siggs, SternRav0R, tulib202,
  xpertvision, Xtra.
 
 Thanks to Juls for the great inject tool (with no size limtations) and the high priority input thread DLL.
