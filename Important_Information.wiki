@@ -4,7 +4,7 @@
 **To avoid problems, please (!) take the time to read this readme properly from start to finish.** :-)
 
 * Installations instructions are at the bottom of this readme.
-* This mod is intended for use with a freshly installed game. 
+* This mod is intended for use with a freshly installed game (and a new profile). 
 * This mod requires that you have already installed the latest official patch
   (v1.02), which is included in the PC DLC Pack (Legends and Speedhunters packs),
   which you can find at http://store.origin.com/ and then search for "unleashed",
