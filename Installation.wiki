@@ -152,6 +152,8 @@ you should:
     the reverse toe value bug). 
 * Some users may also need to reset their controller profile after installation,
   otherwise their controller may not respond to steering.
+* Consider starting a fresh profile. We have seen reports of game crashes on
+  race load when using a profile created before the UCP was applied.
 \\
 \\
 ----
