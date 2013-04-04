@@ -43,6 +43,11 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
 * Reduced the magnetized effect of collisions with walls/rails and other vehicles
 * Fixed reversed mirrors in several cars
 * Fixed syntax errors in tracks.lod files
+* Fixed tuning level issue introduced by unpacking
+* Fixed Nissan GT-R Engine-Swap 'Phantom Turbo' problem
+* Fixed brake heating issue on Mazda RX-7 FC Speedhunters
+* Fixed Lamborghini Murcielago vents so that they pop up at the correct temperature
+* Fixed wheel offsets and sizes on a range of cars (wheelfixit v2.1)
 
 == Enhancements summary: ==
 
@@ -93,16 +98,15 @@ This is an unofficial "patch" for Shift 2 Unleashed developed by the nogripracin
   better ffb and more direct handling)
 * Unlocked more default tuning options for lower tier cars
 * Tweaked tyre sounds to be more prominent
+* Tweak upgrade gear ratios for some cars (Moorsman74) and tweak stock gear ratios for others (transfixit v1).
+* Tweak speedometer movement for cars with non-fixed speed 'ticks' (speedofixit v2)
 ----
 
 == Credits ==
 
 **Main Authors:** matt2380, JDougNY, ermo (current maintainer), and pez2k
 
-**Contributors and supporters:** Aerex, Bongomaster, brrupsz, bt48, D1Racer, darkcyde,
- djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, Kultag
- MacGear, Moorsman74, LawRhed, ogre2010, outlaw22, SakuraBlack, Siggs, SternRav0R, tulib202,
- xpertvision, Xtra.
+**Contributors and supporters:** Aerex, Bongomaster, brrupsz, bt48, D1Racer, darkcyde, djotefsoup, edubz123, Jeroen vd Helm, Jonzy, Kaerar, Kazumi, Kinski, kligson, Kultag, LawRhed, MacGear, Moorsman74, ogre2010, outlaw22, SakuraBlack, Siggs, SternRav0R, tulib202, xpertvision, Xtra.
 
 Thanks to Juls for the great inject tool (with no size limtations) and the high priority input thread DLL.
 
