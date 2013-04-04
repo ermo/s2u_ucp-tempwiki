@@ -18,7 +18,7 @@
 **  Minimod dinput8.dll by Juls
 * Fix uneven L/R brake settings on Infinity G35, Nissan R34 GTR, Lexus LFA, Pagani Cinque Roadster, ,  Porsche 911 GT3RS, Radical SR3
 * Fix uneven L/R  Spininertia values for AE86s, Alfa Romeo GTA 1600, Audi S4 & RS4, Ford Escort Mk1, Lotus Cortina
-* Fix uneven L/R suspension adjustment ranges on Alpina B6 GT3, Aston Martin DB9, Ford Mustang Boss, Gumpert Apollo, Mazda RX( MadMike, Pagani Zonda R, 
+* Fix uneven L/R suspension adjustment ranges on Alpina B6 GT3, Aston Martin DB9, Ford Mustang Boss, Gumpert Apollo, Mazda RX8 MadMike, Pagani Zonda R, 
 * Fix misaligned suspension link positions in aarm_multilink.sdf and its lightened derivatives (used by Radical SR3 and Caterham R500)
 * Tweaked tyre sounds to be more prominent
 * (IN TESTING) Increase maximum career level to 40 (1 million XP):
