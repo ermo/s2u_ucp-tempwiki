@@ -47,7 +47,7 @@
 *** Taller upgrade gearing for RS4, S4, S3, TT, Evo IX, Evo X, R32, R34, STi
 *** Taller upgrade gearing for Koenigsegg CCX, Mclaren F1 & MP4-12c, Porsche 918 & Carrera GT
 ** Fix for the Nissan GT-R Engine Swap 'Phantom Turbo' problem.
-** Fix the brake heating properties of the Mazda RX-7 FC Speedhenturs car
+** Fix the brake heating properties of the Mazda RX-7 FC Speedhunters car
 * Include a collection of fixes from bt48:
 ** speedofixit v2: 
 *** Improved (but not totally fixed) S3, S4, Evo X, Leon Cupra, GTi Mk5 and Scirocco speedos in cockpit view. They will stop rotating at a certain speed to maintain some accuracy.  If you would like some more rotation even though it lacks accuracy, open the .CPT file with notepad, look for speed gauge and double both maxvalue and degrees.
@@ -62,8 +62,7 @@
 **** automated single and double clutches have 0.1
 ** wheelfixit v2.1:
 *** Problem statement:  Due to the carry-over nature of NFS assets and possibly the previous availability of 'autosculpt' in Pro Street and Undercover, many stock wheels on cars are mis-sized relative to actual specification and the aftermarket designs available in-game.
-*** Compared to the aftermarket designs, many cars had odd sizes, such as 16.5 inches for the Civic Si and 19.5 inches for both front and rears of the Agera. 
-(Should be 17s for the Honda and 19 and 20 for the Agera's front and rears respectively.)
+*** Compared to the aftermarket designs, many cars had odd sizes, such as 16.5 inches for the Civic Si and 19.5 inches for both front and rears of the Agera. (Should be 17s for the Honda and 19 and 20 for the Agera's front and rears respectively.)
 *** Thus, I've had most of these culprits fixed over 18 hours of research, work and testing. 53 cars are affected.
 * Added semiautomatic=1 to cars that have cockpit paddles and/or short shift times (R8, R8 LMS, R8 Spyder, TT, Z4, SLS, EvoX, Pagani C9, C9 Rival)
 * (NOT DONE) Decrease AI aggressiveness (we want the AI to ram less)
